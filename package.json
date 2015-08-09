@@ -1,0 +1,14 @@
+{
+  "name": "hljs-cdn-release",
+  "version": "8.7.0",
+  "description": "Syntax highlighting with language autodetection.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themacclesoft/cdn-release.git"
+  },
+  "keywords": [
+    "highlight",
+    "syntax"
+  ]
+}
+
