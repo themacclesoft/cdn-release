@@ -1,6 +1,6 @@
 {
   "name": "hljs-cdn-release",
-  "version": "8.7.0",
+  "version": "8.4.0",
   "description": "Syntax highlighting with language autodetection.",
   "repository": {
     "type": "git",
